@@ -67,10 +67,3 @@ A Windows assistant that runs **entirely on your own PC**: tasks, reminders, cal
 
 - Participant, Level-2 Information and Network Cabling Hackathon (Sep 2025)
 - Organizer, seminar on *Achieving Problem-Solution Fit and Product-Market Fit* (Feb 2026)
-
-### 📊 GitHub stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Achu226&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achu226&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top languages"/>
-</p>
