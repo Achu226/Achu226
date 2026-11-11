@@ -67,3 +67,7 @@ A Windows assistant that runs **entirely on your own PC**: tasks, reminders, cal
 
 - Participant, Level-2 Information and Network Cabling Hackathon (Sep 2025)
 - Organizer, seminar on *Achieving Problem-Solution Fit and Product-Market Fit* (Feb 2026)
+
+### 📊 GitHub metrics
+
+<p align="center"><img src="/github-metrics.svg" alt="GitHub metrics for Achu226" width="100%"></p>
